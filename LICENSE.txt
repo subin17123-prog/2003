@@ -1,0 +1,258 @@
+======
+Chromium Embedded Framework (CEF) Standard Binary Distribution for Windows
+======
+
+// Copyright (c) 2008-2020 Marshall A. Greenblatt. Portions Copyright (c)
+// 2006-2009 Google Inc. All rights reserved.
+//
+// Redistribution and use in source and binary forms, with or without
+// modification, are permitted provided that the following conditions are
+// met:
+//
+//    * Redistributions of source code must retain the above copyright
+// notice, this list of conditions and the following disclaimer.
+//    * Redistributions in binary form must reproduce the above
+// copyright notice, this list of conditions and the following disclaimer
+// in the documentation and/or other materials provided with the
+// distribution.
+//    * Neither the name of Google Inc. nor the name Chromium Embedded
+// Framework nor the names of its contributors may be used to endorse
+// or promote products derived from this software without specific prior
+// written permission.
+//
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+// "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+// LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+// A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+// OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+// SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+// LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+// DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+// THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+// (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+// OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+======
+rapidjson
+======
+
+Tencent is pleased to support the open source community by making RapidJSON available.
+ 
+Copyright (C) 2015 THL A29 Limited, a Tencent company, and Milo Yip.
+ 
+Licensed under the MIT License (the "License"); you may not use this file except
+in compliance with the License. You may obtain a copy of the License at
+ 
+http://opensource.org/licenses/MIT
+ 
+Unless required by applicable law or agreed to in writing, software distributed 
+under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
+CONDITIONS OF ANY KIND, either express or implied. See the License for the 
+specific language governing permissions and limitations under the License.
+
+
+
+======
+libcurl
+======
+
+COPYRIGHT AND PERMISSION NOTICE
+
+Copyright (c) 1996 - 2023, Daniel Stenberg, daniel@haxx.se, and many contributors, see the THANKS file.
+
+All rights reserved.
+
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder.
+
+
+
+======
+OpenSSL
+======
+
+OpenSSL is covered by one of two licenses, depending on which release is involved. In all cases, there is a file named LICENSE in the top-level of the release. Copies can also be found here.
+
+For the 3.0 release, and later releases derived from that, the Apache License v2 applies. This also applies to the git “master” branch.
+
+For any release made before OpenSSL 3.0 (namely the 1.1.1, 1.1.0, 1.0.2, and all prior releases including those not currently supported), the dual OpenSSL and SSLeay license applies. Note that this is also true for any updates to those releases – the “letter suffix” – no matter when they are made. It also applies to the git branches for all those releases, and to any public forks that have not rebased to master (or 3.0).
+
+
+
+======
+libssh2
+======
+
+/* Copyright (C) 2004-2007 Sara Golemon <sarag@libssh2.org>
+ * Copyright (C) 2005,2006 Mikhail Gusarov <dottedmag@dottedmag.net>
+ * Copyright (C) 2006-2007 The Written Word, Inc.
+ * Copyright (C) 2007 Eli Fant <elifantu@mail.ru>
+ * Copyright (C) 2009-2023 Daniel Stenberg
+ * Copyright (C) 2008, 2009 Simon Josefsson
+ * Copyright (C) 2000 Markus Friedl
+ * Copyright (C) 2015 Microsoft Corp.
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms,
+ * with or without modification, are permitted provided
+ * that the following conditions are met:
+ *
+ *   Redistributions of source code must retain the above
+ *   copyright notice, this list of conditions and the
+ *   following disclaimer.
+ *
+ *   Redistributions in binary form must reproduce the above
+ *   copyright notice, this list of conditions and the following
+ *   disclaimer in the documentation and/or other materials
+ *   provided with the distribution.
+ *
+ *   Neither the name of the copyright holder nor the names
+ *   of any other contributors may be used to endorse or
+ *   promote products derived from this software without
+ *   specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+ * CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+ * INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+ * CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+ * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+ * USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+ * OF SUCH DAMAGE.
+ */
+
+
+
+======
+zlib
+======
+
+/* zlib.h -- interface of the 'zlib' general purpose compression library
+  version 1.3, August 18th, 2023
+
+  Copyright (C) 1995-2023 Jean-loup Gailly and Mark Adler
+
+  This software is provided 'as-is', without any express or implied
+  warranty.  In no event will the authors be held liable for any damages
+  arising from the use of this software.
+
+  Permission is granted to anyone to use this software for any purpose,
+  including commercial applications, and to alter it and redistribute it
+  freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented; you must not
+     claim that you wrote the original software. If you use this software
+     in a product, an acknowledgment in the product documentation would be
+     appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be
+     misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+  Jean-loup Gailly        Mark Adler
+  jloup@gzip.org          madler@alumni.caltech.edu
+
+*/
+
+
+
+======
+CryptoPP
+======
+
+Compilation Copyright (c) 1995-2019 by Wei Dai.  All rights reserved.
+This copyright applies only to this software distribution package
+as a compilation, and does not imply a copyright on any particular
+file in the package.
+
+All individual files in this compilation are placed in the public domain by
+Wei Dai and other contributors.
+
+I would like to thank the following authors for placing their works into
+the public domain:
+
+Joan Daemen - 3way.cpp
+Leonard Janke - cast.cpp, seal.cpp
+Steve Reid - cast.cpp
+Phil Karn - des.cpp
+Andrew M. Kuchling - md2.cpp, md4.cpp
+Colin Plumb - md5.cpp
+Seal Woods - rc6.cpp
+Chris Morgan - rijndael.cpp
+Paulo Baretto - rijndael.cpp, skipjack.cpp, square.cpp
+Richard De Moliner - safer.cpp
+Matthew Skala - twofish.cpp
+Kevin Springle - camellia.cpp, shacal2.cpp, ttmac.cpp, whrlpool.cpp, ripemd.cpp
+Ronny Van Keer - sha3.cpp
+Aumasson, Neves, Wilcox-O'Hearn and Winnerlein - blake2.cpp, blake2b_simd.cpp, blake2s_simd.cpp
+Aaram Yun - aria.cpp, aria_simd.cpp
+Han Lulu, Markku-Juhani O. Saarinen - sm4.cpp sm4_simd.cpp
+Daniel J. Bernstein, Jack Lloyd - chacha.cpp, chacha_simd.cpp, chacha_avx.cpp
+Andrew Moon - ed25519, x25519, donna_32.cpp, donna_64.cpp, donna_sse.cpp
+
+The Crypto++ Library uses portions of Andy Polyakov's CRYPTOGAMS on Linux
+for 32-bit ARM with files aes_armv4.S, sha1_armv4.S and sha256_armv4.S.
+CRYPTOGAMS is dual licensed with a permissive BSD-style license. The
+CRYPTOGAMS license is reproduced below. You can disable Cryptogams code by
+undefining the relevant macros in config_asm.h.
+
+The Crypto++ Library uses portions of Jack Lloyd's Botan for ChaCha SSE2 and
+AVX. Botan placed the code in public domain for Crypto++ to use.
+
+The Crypto++ Library (as a compilation) is currently licensed under the Boost
+Software License 1.0 (http://www.boost.org/users/license.html).
+
+Boost Software License - Version 1.0 - August 17th, 2003
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to use, reproduce, display, distribute,
+execute, and transmit the Software, and to prepare derivative works of the
+Software, and to permit third-parties to whom the Software is furnished to
+do so, all subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant, this restriction and the following disclaimer,
+must be included in all copies of the Software, in whole or in part, and
+all derivative works of the Software, unless such copies or derivative
+works are solely in the form of machine-executable object code generated by
+a source language processor.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+CRYPTOGAMS License
+
+Copyright (c) 2006-2017, CRYPTOGAMS by <appro@openssl.org>
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+* Redistributions of source code must retain copyright notices,
+  this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above
+  copyright notice, this list of conditions and the following
+  disclaimer in the documentation and/or other materials
+  provided with the distribution.
+* Neither the name of the CRYPTOGAMS nor the names of its copyright
+  holder and contributors may be used to endorse or promote products
+  derived from this software without specific prior written permission.
+
+
